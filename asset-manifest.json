@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LarisPlastik/static/css/main.54f6bb5a.chunk.css",
-    "main.js": "/LarisPlastik/static/js/main.8bb487d4.chunk.js",
-    "main.js.map": "/LarisPlastik/static/js/main.8bb487d4.chunk.js.map",
+    "main.css": "/LarisPlastik/static/css/main.41e3393b.chunk.css",
+    "main.js": "/LarisPlastik/static/js/main.8da0f6a7.chunk.js",
+    "main.js.map": "/LarisPlastik/static/js/main.8da0f6a7.chunk.js.map",
     "runtime-main.js": "/LarisPlastik/static/js/runtime-main.6990daa3.js",
     "runtime-main.js.map": "/LarisPlastik/static/js/runtime-main.6990daa3.js.map",
-    "static/js/2.e4a74fdb.chunk.js": "/LarisPlastik/static/js/2.e4a74fdb.chunk.js",
-    "static/js/2.e4a74fdb.chunk.js.map": "/LarisPlastik/static/js/2.e4a74fdb.chunk.js.map",
+    "static/js/2.13b7c236.chunk.js": "/LarisPlastik/static/js/2.13b7c236.chunk.js",
+    "static/js/2.13b7c236.chunk.js.map": "/LarisPlastik/static/js/2.13b7c236.chunk.js.map",
     "index.html": "/LarisPlastik/index.html",
-    "static/css/main.54f6bb5a.chunk.css.map": "/LarisPlastik/static/css/main.54f6bb5a.chunk.css.map",
-    "static/js/2.e4a74fdb.chunk.js.LICENSE.txt": "/LarisPlastik/static/js/2.e4a74fdb.chunk.js.LICENSE.txt",
+    "static/css/main.41e3393b.chunk.css.map": "/LarisPlastik/static/css/main.41e3393b.chunk.css.map",
+    "static/js/2.13b7c236.chunk.js.LICENSE.txt": "/LarisPlastik/static/js/2.13b7c236.chunk.js.LICENSE.txt",
     "static/media/Bumbu.d539548e.jpg": "/LarisPlastik/static/media/Bumbu.d539548e.jpg",
     "static/media/Laris Plastik.221b7231.jpg": "/LarisPlastik/static/media/Laris Plastik.221b7231.jpg",
     "static/media/Sterofoam.6e151034.jpg": "/LarisPlastik/static/media/Sterofoam.6e151034.jpg",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6990daa3.js",
-    "static/js/2.e4a74fdb.chunk.js",
-    "static/css/main.54f6bb5a.chunk.css",
-    "static/js/main.8bb487d4.chunk.js"
+    "static/js/2.13b7c236.chunk.js",
+    "static/css/main.41e3393b.chunk.css",
+    "static/js/main.8da0f6a7.chunk.js"
   ]
 }
