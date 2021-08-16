@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LarisPlastik/static/css/main.41e3393b.chunk.css",
-    "main.js": "/LarisPlastik/static/js/main.6a396905.chunk.js",
-    "main.js.map": "/LarisPlastik/static/js/main.6a396905.chunk.js.map",
+    "main.js": "/LarisPlastik/static/js/main.8c6b9a69.chunk.js",
+    "main.js.map": "/LarisPlastik/static/js/main.8c6b9a69.chunk.js.map",
     "runtime-main.js": "/LarisPlastik/static/js/runtime-main.6990daa3.js",
     "runtime-main.js.map": "/LarisPlastik/static/js/runtime-main.6990daa3.js.map",
     "static/js/2.13b7c236.chunk.js": "/LarisPlastik/static/js/2.13b7c236.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.6990daa3.js",
     "static/js/2.13b7c236.chunk.js",
     "static/css/main.41e3393b.chunk.css",
-    "static/js/main.6a396905.chunk.js"
+    "static/js/main.8c6b9a69.chunk.js"
   ]
 }
